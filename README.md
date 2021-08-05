@@ -1,5 +1,5 @@
-# :tv: 8,055,194 movies
-### :date: 2021-07-05 08:05:47
+# :tv: 8,147,201 movies
+### :date: 2021-08-05 08:06:05
 #### Netlify
 - <a href='https://title-crew.netlify.app/index.html' target='_blank'>https://title-crew.netlify.app/index.html</a>
 - <a href='https://title-crew.netlify.app/index.json' target='_blank'>https://title-crew.netlify.app/index.json</a>
